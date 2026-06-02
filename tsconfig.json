@@ -1,0 +1,3 @@
+{ "compilerOptions": { "target": "es2025", "module": "nodenext", "strict": true, "noImplicitAny": true, "strictNullChecks": true, "noUncheckedIndexedAccess": true
+}
+}
